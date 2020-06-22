@@ -9,6 +9,7 @@ figcaption {
   max-width: 800px;
   text-align: center;
   display: inline-block;
+  align-items: center;
 }
 body {
   width: 100%;
