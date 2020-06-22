@@ -8,7 +8,7 @@ figcaption {
 #featured-property {
   max-width: 800px;
   text-align: center;
-  display: inline-block;
+  display: flex;
   align-items: center;
 }
 body {
