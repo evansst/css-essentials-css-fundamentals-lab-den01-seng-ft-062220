@@ -5,7 +5,8 @@ figcaption {
   font-size: 5pt;
 }
 p#featured-property{
-  max-width: 800px;
+   word-wrap: break-word;
+   width: 800px;
 }
 
 body {
