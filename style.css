@@ -6,7 +6,8 @@ figcaption {
 }
 
 p {
-
+  text-align: center;
+  text-align-last: center;
   max-width: 800px;
 
 }
