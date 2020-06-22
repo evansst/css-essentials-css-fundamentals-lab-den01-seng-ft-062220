@@ -1,7 +1,9 @@
 h1, nav, figure {
   text-align: center;
 }
-
+figcaptions {
+  text-size: 10pt;
+}
 body {
   width: 100%;
   height: 100%;
