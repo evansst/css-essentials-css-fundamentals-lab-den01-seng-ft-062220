@@ -2,7 +2,7 @@ h1, nav, figure {
   text-align: center;
 }
 figcaptions {
-  text-size: 10pt;
+  text-size-adjust: 10pt;
 }
 body {
   width: 100%;
